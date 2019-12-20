@@ -1,5 +1,4 @@
 # Web_Scraping
-============================
 Scrape the data and news titles from websites
 
 ## Problem
@@ -43,4 +42,4 @@ df_1
 ```
 ## result 1
 Here are the results after running the python scripts
-![Result](Screenshot 2019-12-20 at 15.22.45.png)
+![Result](https://github.com/kwlwman2/Web_Scraping/blob/master/Screenshot%202019-12-20%20at%2015.22.45.png?raw=true)
